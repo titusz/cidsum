@@ -2,7 +2,7 @@
 name = "cidsum"
 version = "0.1.0"
 description = ""
-authors = ["Titusz Pan <tp@py7.de"]
+authors = ["Titusz Pan <tp@py7.de>"]
 
 [tool.poetry.dependencies]
 python = "^3.6"
